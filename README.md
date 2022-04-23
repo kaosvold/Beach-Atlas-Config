@@ -17,3 +17,8 @@ The add transient nodes check box will add cursed and sulfurous ground to the is
 Selecting the overwrite option will overwrite all the changes to the json.  This is not recommended in early versions of the program.
 
 This was written in java but wrapped with the jre using launch4j, so no java should be necessary to run this application.
+
+Caveats:
+This program will check if you have one of each of the PVE islands and 9 trenches.  Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
+
+Beach#2483 on discord for support.
