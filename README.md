@@ -19,6 +19,6 @@ Selecting the overwrite option will overwrite all the changes to the json.  This
 This was written in java but wrapped with the jre using launch4j, so no java should be necessary to run this application.
 
 Caveats:
-This program will check if you have one of each of the PVE islands and 9 trenches.  Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
+This program will check if you have one of each of the distinct PVE islands and 9 trenches.  Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
 
 Beach#2483 on discord for support.
