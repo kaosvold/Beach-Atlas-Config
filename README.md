@@ -2,7 +2,7 @@
  Atlas JSON Config
 ![image](https://user-images.githubusercontent.com/24537644/164844940-bc0981a5-82e7-4560-9a96-544b999a4412.png)
 
-This configurator does a couple of things.  When you select your ServerGrid.json file, it will pull the number of x grids and y grids, and begin to populate suggested ports that would need to be forwarded  You can modify the start port and it will calculate the ending port.  The ip address is retrieved from amazon aws.
+This configurator does several things.  When you select your ServerGrid.json file, it will pull the number of x grids and y grids, and begin to populate suggested ports that would need to be forwarded  You can modify the start port and it will calculate the ending port.  The ip address is retrieved from amazon aws.
 
 Game, Query and RCON ports will do port number +1.  This may be removed in future releases, but keeping in place for the moment.  Seamless increments by 1 for each grid.  These ports and the external ip are saved to the json.  This program uses amazonaws to retrieve your external ip address.  
 
