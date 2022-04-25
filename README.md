@@ -21,4 +21,6 @@ This was written in java but wrapped with the jre using launch4j, so no java sho
 Caveats:
 This program will check if you have one of each of the distinct PVE islands and 9 trenches.  Currently didn't have a plan to allow for duplicating powerstone islands, but may if there is enough request for it.
 
+To use, extract the entire folder, it has JRE bundled to run the application then run BAC.exe
+
 Beach#2483 on discord for support.
